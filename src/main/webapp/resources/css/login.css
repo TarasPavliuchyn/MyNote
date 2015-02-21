@@ -1,0 +1,15 @@
+body {
+	background: #eee !important;	
+}
+
+.message {
+	color: red;
+	text-align: center;	
+}
+
+.error {
+    color: red;
+    left: 5%;
+    margin-left: 13px;
+}
+
