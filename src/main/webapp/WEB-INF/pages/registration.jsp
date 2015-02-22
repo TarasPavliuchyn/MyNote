@@ -43,7 +43,7 @@
 						</c:if>
 						<div class="form-group">
 							<label for="email" class="col-md-3 control-label"><spring:message
-									code="email" /></label>
+									code="login" /></label>
 							<div class="col-md-9">
 								<input type="text" class="form-control" name="login" id="login"
 									placeholder="<spring:message code="login"/>" autofocus>
